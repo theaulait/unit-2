@@ -12,4 +12,4 @@
 
 | Due Date | Homework|
 |--- |---|
-|June 5 | |
+|June 5 | [Meme-ify Me](homework/week-0.md) |
