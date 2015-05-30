@@ -46,3 +46,5 @@ features, and general project navigation.
 If a particular team member functioned as project leader, mention that. If a particular team member was responsible
 for design or for something that transcended feature-building, mention that as well. We will also be sending out a
 Google form to collect more information on the teamwork component of this project.
+
+#### Submissions
