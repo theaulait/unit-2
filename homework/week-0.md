@@ -17,8 +17,8 @@ in any constructive feedback then a third code review is required.
 #### Requirements
 
 You'll be creating an Android app to add captions onto an image. There are two types of memes this should support:
-* Vanilla memes: That is, an image with text overlayed on the top/middle/bottom (any combination of those three).
-* Demotivational posters: An image with a black border, and a caption that includes larger text followed by
+* [Vanilla memes](http://www.quickmeme.com/img/21/21c71509584aaf9f6576b8aeb80ad0d5afa6114e6da2c79e3b0d1808c948b6e7.jpg): That is, an image with text overlayed on the top/middle/bottom (any combination of those three).
+* [Demotivational posters](http://www.marcofolio.net/images/stories/fun/imagedump/demotivational_posters/simplicity.jpg): An image with a black border, and a caption that includes larger text followed by
 smaller text.
 
 Users should be able to:
