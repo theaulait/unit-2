@@ -9,12 +9,10 @@ fits into Android applications.
 
 [Slides here](https://docs.google.com/presentation/d/1xScp3t_0yJqVMZ4k2cxvvl0p4EhTT-JYBdKL-KabO7I/edit#slide=id.p)
 
-#### Pod Meetings
-
-#### Unit Testing (John)
-
 #### Collaboration (Amy)
 
 #### Homework (Amy)
 
 #### Assessment
+
+[Exit Ticket](https://docs.google.com/forms/d/1a-gfjjsn35N-C6wrQU9y02vHoYLFaEfjUgD7J91n3rM/viewform)
