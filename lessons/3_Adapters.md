@@ -8,7 +8,7 @@ Students will become comfortable using adapters to create views.
 
 Work on group project.
 
-#### Afternoon (Lesson)
+#### Lesson (Afternoon)
 
 * Android Docs: [The Adapter Class](http://developer.android.com/reference/android/widget/Adapter.html), [Building Layouts with an Adapter](http://developer.android.com/guide/topics/ui/declaring-layout.html#AdapterViews)
 * Udacity course: [ListViews and Adapters](https://www.udacity.com/course/viewer#!/c-ud853/l-1395568821/e-1395668591/m-1395668592)
