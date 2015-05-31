@@ -4,24 +4,20 @@
 
 Students will become comfortable using adapters to create views.
 
-#### Do Now (Morning)
+#### Morning
 
-#### Lesson (Morning)
+Work on group project.
 
-What is an Adapter?
+#### Afternoon (Lesson)
 
-The Adapter class. [Android docs](http://developer.android.com/reference/android/widget/Adapter.html)
-
-#### Exercise (Morning)
-
-Build an application using a [ListView](http://developer.android.com/guide/topics/ui/layout/listview.html). Use
-an adapter to populate the ListView with a list in the XML resouces.
-
-#### Do Now (Afternoon)
-
-#### Lesson (Afternoon)
+* Android Docs: [The Adapter Class](http://developer.android.com/reference/android/widget/Adapter.html), [Building Layouts with an Adapter](http://developer.android.com/guide/topics/ui/declaring-layout.html#AdapterViews)
+* Udacity course: [ListViews and Adapters](https://www.udacity.com/course/viewer#!/c-ud853/l-1395568821/e-1395668591/m-1395668592)
+* Textbook: Adapter Views and Adapters
 
 #### Exercise (Afternoon)
+
+1. Build an application using a [ListView](http://developer.android.com/guide/topics/ui/layout/listview.html). Use
+an adapter to populate the ListView with a list in the XML resouces.
 
 1. Build an application using a [GridView](http://developer.android.com/guide/topics/ui/layout/gridview.html) Use an
 adapater to populate the GridView with a list in the XML resources.
@@ -37,5 +33,4 @@ Create a custom adapter and use this in an application you've already created.
 
 #### Resources
 
-Udacity course: [ListViews and Adapters](https://www.udacity.com/course/viewer#!/c-ud853/l-1395568821/e-1395668591/m-1395668592)
-Textbook: Adapter Views and Adapters
+
