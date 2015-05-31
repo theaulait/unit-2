@@ -16,6 +16,8 @@ Work on group project.
 
 #### Exercise (Afternoon)
 
+Working in your homework groups:
+
 1. Build an application using a [ListView](http://developer.android.com/guide/topics/ui/layout/listview.html). Use
 an adapter to populate the ListView with a list in the XML resouces.
 
