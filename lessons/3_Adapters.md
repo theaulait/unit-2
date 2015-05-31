@@ -32,7 +32,3 @@ current view.
 Create a custom adapter and use this in an application you've already created.
 
 #### Assessment
-
-#### Resources
-
-
