@@ -4,17 +4,23 @@
 
 Students will become comfortable using adapters to create views.
 
-#### Morning
+#### Do Now
 
-Work on group project.
+#### Lesson
 
-#### Lesson (Afternoon)
+##### Bootcamp Review
 
-* Android Docs: [The Adapter Class](http://developer.android.com/reference/android/widget/Adapter.html), [Building Layouts with an Adapter](http://developer.android.com/guide/topics/ui/declaring-layout.html#AdapterViews)
-* Udacity course: [ListViews and Adapters](https://www.udacity.com/course/viewer#!/c-ud853/l-1395568821/e-1395668591/m-1395668592)
-* Textbook: Adapter Views and Adapters
+##### ViewBinders
 
-#### Exercise (Afternoon)
+##### Adapters
+
+##### ArrayAdapter
+
+##### ListAdapter
+
+##### GridAdapter
+
+#### Exercise
 
 Working in your homework groups:
 
@@ -27,8 +33,14 @@ adapater to populate the GridView with a list in the XML resources.
 1. Using an app you've already created, refactor the code to use either a ListView or a GridView in place of your
 current view.
 
-#### Bonus (Afternoon)
+#### Bonus
 
 Create a custom adapter and use this in an application you've already created.
 
 #### Assessment
+
+#### Resources
+
+* Android Docs: [The Adapter Class](http://developer.android.com/reference/android/widget/Adapter.html), [Building Layouts with an Adapter](http://developer.android.com/guide/topics/ui/declaring-layout.html#AdapterViews)
+* Udacity course: [ListViews and Adapters](https://www.udacity.com/course/viewer#!/c-ud853/l-1395568821/e-1395668591/m-1395668592)
+* Textbook: Adapter Views and Adapters
