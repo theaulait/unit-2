@@ -1,6 +1,10 @@
 ### Storing Files
 
-#### Lesson
+#### Objective
+
+#### Do Now (Morning)
+
+#### Lesson (Afternoon)
 
 ##### Shared Preferences
 
@@ -13,6 +17,10 @@
 ##### Serializing Data
 
 > Exercise
+
+#### Do Now (Afternoon)
+
+#### Lesson (Afternoon)
 
 ##### Querying Free Space
 
@@ -33,3 +41,7 @@
 ##### Tools
 
 (Accessing a file with ADB etc.)
+
+#### Assessment
+
+#### Resources
