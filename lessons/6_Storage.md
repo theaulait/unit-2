@@ -2,26 +2,34 @@
 
 #### Lesson
 
-##### Internal vs External Storage
+##### Shared Preferences
+
+> Exercise
 
 ##### Permissions
 
 ##### File Object
 
-##### Querying Free Space
-
-##### Saving a file to external storage
+##### Serializing Data
 
 > Exercise
+
+##### Querying Free Space
+
+##### Internal vs External Storage
 
 ##### Saving a file to internal storage
 
 > Exercise 
 
+##### Saving a file to external storage
+
+> Exercise
+
 ##### Deleting a File
 
 > Exercise
 
-##### Shared Preferences
+##### Tools
 
-> Exercise
+(Accessing a file with ADB etc.)
