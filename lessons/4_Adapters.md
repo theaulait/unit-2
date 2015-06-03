@@ -36,8 +36,6 @@ default settings for both of these types of layouts. While an ArrayAdapter is on
 
 #### Exercise
 
-Working in your homework groups:
-
 1. Modify your app from the Do Now to use a ListView.
 
 1. Build an application using a [ListView](http://developer.android.com/guide/topics/ui/layout/listview.html). Use
