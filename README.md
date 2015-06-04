@@ -9,7 +9,7 @@
 2 | May 30 | 0 | [Anatomy of the Android Manifest](lessons/2_Anatomy-Manifest.md)
 3 | May 31 | 1 | Group work + vim
 4 | June 2 | 1 | [Adapters](lessons/4_Adapters.md)
-5 | June 4 | 1 | View Hierarchy
+5 | June 4 | 1 | [View Hierarchy](lessons/5_View-Hierarchy.md)
 6 | June 6 | 1 | [Storage](lessons/6_Storage.md)
 
 ### Homework
