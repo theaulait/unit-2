@@ -10,7 +10,7 @@ Students will become comfortable with:
 
 #### Lesson
 
-[Slides here](TBD)
+[Slides here](https://docs.google.com/presentation/d/1T531BWGmJXoEsY5jDou7djgq-me3LJu7466q0g8eUwM/edit?usp=sharing)
 
 #### Assessment
 
