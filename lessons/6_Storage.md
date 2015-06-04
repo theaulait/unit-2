@@ -2,9 +2,18 @@
 
 #### Objective
 
+Students will understand how to store data using shared preferences and internal and external storage.
+
 #### Do Now (Morning)
 
-#### Lesson (Afternoon)
+> Create a `User` class. A User has a name and an age. Create a constructor and getters and setters for this object.
+
+> Create an app with one main activity. The activity should include an EditText that takes in a user's name and
+> a number representing the user's age, a submission button, and a spinner (dropdown), which we will later populate with `Users`.
+
+> When a user hits the submit button, use the name and age fields to create a `User` object with that name and age. Store the `Users` in an array that populates the spinner.
+
+#### Lesson (Morning)
 
 ##### Shared Preferences
 
@@ -16,7 +25,11 @@
 
 ##### Serializing Data
 
+Serializing an Object 
+
 > Exercise
+
+> Using Object
 
 #### Do Now (Afternoon)
 
