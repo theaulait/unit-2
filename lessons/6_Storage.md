@@ -41,13 +41,18 @@ Serializing an Object
 
 ##### Saving a file to internal storage
 
-> Exercise 
+> Exercise
+
+> Using the serialized `User` object, whenever a new `User` is added, add it as a line in the file. Use this file
+to populate the spinner.
 
 ##### Saving a file to external storage
 
 * Permissions
 
 > Exercise
+
+> Do the same thing, saving the serialized `User` object and populating the spinner, but instead saving to external storage.
 
 ##### Deleting a File
 
