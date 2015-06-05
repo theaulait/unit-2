@@ -9,9 +9,9 @@ Students will understand how to store data using shared preferences and internal
 > Create a `User` class. A User has a name and an age. Create a constructor and getters and setters for this object, and override toString so that it returns "$name, $age".
 
 > Create an app with one main activity. The activity should include an EditText that takes in a user's name and
-> a number representing the user's age, a submission button, and a spinner (dropdown), which we will later populate with `Users`.
+> a number representing the user's age, and a submission button.
 
-> When a user hits the submit button, use the name and age fields to create a `User` object with that name and age. Store the `Users` in an array that populates the spinner.
+> When a user hits the submit button, use the name and age fields to create a `User` object with that name and age. Store the `Users` in an array.
 
 #### Lesson (Morning)
 
@@ -27,19 +27,21 @@ Students will understand how to store data using shared preferences and internal
 
 ##### Serializing Data
 
-Serializing an Object 
-
 > Exercise
 
 > 
 
 #### Do Now (Afternoon)
 
+> Add a spinner (dropdown), and populate the spinner with your `Users` array.
+
 #### Lesson (Afternoon)
 
 ##### Querying Free Space
 
 ##### Internal vs External Storage
+
+
 
 ##### Saving a file to internal storage
 
@@ -68,7 +70,7 @@ Note that, as with the File object, read permissions and write permissions are s
 
 > Exercise
 
-> Do the same thing, saving the serialized `User` object and populating the spinner, but instead saving to external storage.
+> Do the same thing, saving the serialized `User` object and populating the spinner, but instead saving to and reading from external storage.
 
 ##### Deleting a File
 
