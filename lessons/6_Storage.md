@@ -52,7 +52,7 @@ to populate the spinner.
 
 ##### Saving a file to external storage
 
-* Permissions
+###### Permissions
 
 In the Manifest file, you must add permissions to access external storage. In order to read from external storage, include the line:
 
@@ -67,6 +67,8 @@ In order to write to external storage, include the line:
 ```
 
 Note that, as with the File object, read permissions and write permissions are separate (as are execution permissions). This division of permissions is typical.
+
+###### Reading and Writing
 
 > Exercise
 
