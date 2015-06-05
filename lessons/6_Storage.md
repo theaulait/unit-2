@@ -23,6 +23,8 @@ Students will understand how to store data using shared preferences and internal
 
 ##### File Object
 
+[File](http://developer.android.com/reference/java/io/File.html) - The File object represents a File and can be used to create, delete, read from, and write to a File. You can also use this object to manage File permissions and metadata.
+
 ##### Serializing Data
 
 Serializing an Object 
@@ -49,6 +51,20 @@ to populate the spinner.
 ##### Saving a file to external storage
 
 * Permissions
+
+In the Manifest file, you must add permissions to access external storage. In order to read from external storage, include the line:
+
+```
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+```
+
+In order to write to external storage, include the line:
+
+```
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+```
+
+Note that, as with the File object, read permissions and write permissions are separate (as are execution permissions). This division of permissions is typical.
 
 > Exercise
 
