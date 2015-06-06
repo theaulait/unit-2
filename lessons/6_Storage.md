@@ -45,9 +45,9 @@ An Object is serialized when it is turned into a stream of bytes so it can be wr
 
 One of the tricky things about writing code for mobile devices is the limited amount of free space (and resources in general, including local resources all well as non-gaurantees of internet connectivity and bandwidth). When you run out of space, you will get an IOException. If you know (or can ballpark) the amount of space you'll need beforehand, you can use [`getFreeSpace()`](http://developer.android.com/reference/java/io/File.html#getFreeSpace()) and [`getTotalSpace()`](http://developer.android.com/reference/java/io/File.html#getTotalSpace()) on the `File` object to know if you'll have enough space.
 
-##### Internal vs External Storage
+##### [Internal vs External Storage](http://developer.android.com/training/basics/data-storage/files.html#InternalVsExternalStorage)
 
-
+All devices have internal storage (built-in storage). External storage is typically a device such as an SD card, although sometimes the external storage is nonremovable. Internal storage is always available (unlike external storage). When a user deletes your app, the associated internal storage is deleted by default, but the associated external storage is not deleted by default. Interal storage is typically only meant to be read by the app, wheras external storage is world-readable. Internal storage is more suited to something like a database; external storage might be for memes that a user has created.
 
 ##### Saving a file to internal storage
 
@@ -81,6 +81,8 @@ Note that, as with the File object, read permissions and write permissions are s
 > Do the same thing, saving the serialized `User` object and populating the spinner, but instead saving to and reading from external storage.
 
 ##### Deleting a File
+
+Delete a `File` with the [`delete()`](http://developer.android.com/reference/java/io/File.html#delete()) method, or by calling [`deleteFile()`](http://developer.android.com/reference/android/content/Context.html#deleteFile(java.lang.String)) on the `Context`.
 
 > Exercise
 
