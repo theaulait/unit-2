@@ -65,3 +65,5 @@ Team SCAR - Sufei, Charlyn, Alvin, Reinard
 https://github.com/sufeiiz/Memeify
 
 Team Meme5: Tasha Smith, Pooja Pasawala, Anthony Fermin, Jorge Reina - https://github.com/tashsmit/Meme5
+
+Team VEGH: Vanice, Elvis, George, Hans - https://github.com/personabe1984/Snap-Meme
