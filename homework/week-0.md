@@ -52,3 +52,5 @@ Google form to collect more information on the teamwork component of this projec
 #### Submissions
 
 Team AHRM: Abass Bayo, Rosemary Fermin, Hoshiko Oki, Marbella Vidals - https://github.com/RosmaryFC/Meme-ify-Me-ARHM
+
+Lean Mean Meme Machine: A super rad meme generator by LOLcat Labz (AKA Sarah Kim, Allison Bojarski, Dison Ruan, and Jaellys Bales) - https://github.com/jaellysbales/memeify-me
