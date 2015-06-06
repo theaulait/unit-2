@@ -52,3 +52,5 @@ Google form to collect more information on the teamwork component of this projec
 #### Submissions
 
 Team AHRM: Abass Bayo, Rosemary Fermin, Hoshiko Oki, Marbella Vidals - https://github.com/RosmaryFC/Meme-ify-Me-ARHM
+
+Team Meme5: Tasha Smith, Pooja Pasawala, Anthony Fermin, Jorge Reina - https://github.com/tashsmit/Meme5
