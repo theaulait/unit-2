@@ -97,6 +97,8 @@ Get the public files directory using [`getExternalStoragePublicDirectory()`](htt
 
 Write to the file stream and close.
 
+See also [Using External Storage](http://developer.android.com/guide/topics/data/data-storage.html#filesExternal) and [Save a File on External Storage](http://developer.android.com/training/basics/data-storage/files.html#WriteExternalStorage).
+
 > Exercise
 
 > Do the same thing, saving the serialized `User` object and populating the spinner, but instead saving to and reading from external storage.
