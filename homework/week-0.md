@@ -48,3 +48,6 @@ for design or for something that transcended feature-building, mention that as w
 Google form to collect more information on the teamwork component of this project.
 
 #### Submissions
+
+Team SCAR - Sufei, Charlyn, Alvin, Reinard
+https://github.com/sufeiiz/Memeify
