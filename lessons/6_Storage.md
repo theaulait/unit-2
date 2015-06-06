@@ -29,9 +29,11 @@ Shared Preferences are a way to store persistent key-value pairs. You can have m
 
 ##### Serializing Data
 
+An Object is serialized when it is turned into a stream of bytes so it can be written to a file, and deserialized when it is turned back into an Object using the stream of bytes. An Object that does these can implement the [Serializable](http://developer.android.com/reference/java/io/Serializable.html) interface. In order to be serializable and deserializable, you can create/use [ObjectOutputStream](http://developer.android.com/reference/java/io/ObjectOutputStream.html) and [ObjectInputStream](http://developer.android.com/reference/java/io/ObjectInputStream.html).
+
 > Exercise
 
-> 
+> Make the `User` object `Serializable`.
 
 #### Do Now (Afternoon)
 
@@ -88,4 +90,3 @@ Note that, as with the File object, read permissions and write permissions are s
 
 #### Assessment
 
-#### Resources
