@@ -43,6 +43,8 @@ An Object is serialized when it is turned into a stream of bytes so it can be wr
 
 ##### Querying Free Space
 
+One of the tricky things about writing code for mobile devices is the limited amount of free space (and resources in general, including local resources all well as non-gaurantees of internet connectivity and bandwidth). When you run out of space, you will get an IOException. If you know (or can ballpark) the amount of space you'll need beforehand, you can use [`getFreeSpace()`](http://developer.android.com/reference/java/io/File.html#getFreeSpace()) and [`getTotalSpace()`](http://developer.android.com/reference/java/io/File.html#getTotalSpace()) on the `File` object to know if you'll have enough space.
+
 ##### Internal vs External Storage
 
 
