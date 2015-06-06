@@ -56,3 +56,5 @@ Team AHRM: Abass Bayo, Rosemary Fermin, Hoshiko Oki, Marbella Vidals - https://g
 Team YANJ:Yuliya Kaleda, Anthony McBride, Na Li, Janneisy Vidals - https://github.com/Jvidals1/MeMeApp/tree/JannV
 Team Maddy and The Cool Kids: Ray Acevedo, Jose Garcia, Kadeem Maraugh, Madelyn Tavarez - https://github.com/MadelynTav/MemeProject
 Lean Mean Meme Machine: A super rad meme generator by LOLcat Labz (AKA Sarah Kim, Allison Bojarski, Dison Ruan, and Jaellys Bales) - https://github.com/jaellysbales/memeify-me
+Team SCAR - Sufei, Charlyn, Alvin, Reinard
+https://github.com/sufeiiz/Memeify
