@@ -52,3 +52,4 @@ Google form to collect more information on the teamwork component of this projec
 #### Submissions
 
 Team AHRM: Abass Bayo, Rosemary Fermin, Hoshiko Oki, Marbella Vidals - https://github.com/RosmaryFC/Meme-ify-Me-ARHM
+Team Maddy and The Cool Kids: Ray Acevedo, Jose Garcia, Kadeem Maraugh, Madelyn Tavarez - https://github.com/MadelynTav/MemeProject
