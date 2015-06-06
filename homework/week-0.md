@@ -50,3 +50,5 @@ Google form to collect more information on the teamwork component of this projec
 *Update* Google form [here](https://docs.google.com/a/c4q.nyc/forms/d/1PxS_qG-1RhZJD4iNWtDrUqj_8eLurHBySjA_WfrX6Vw/viewform).
 
 #### Submissions
+
+John Gomez, Joshelyn Vivas, Ramona Harrison, Luke Lee - https://github.com/ramonaharrison/meme-ify-me
