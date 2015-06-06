@@ -51,6 +51,19 @@ All devices have internal storage (built-in storage). External storage is typica
 
 ##### Saving a file to internal storage
 
+Create a `FileOutputStream` object, write to the stream, and then close it:
+
+```
+String FILENAME = "hello_file";
+String string = "hello world!";
+
+FileOutputStream fos = openFileOutput(FILENAME, Context.MODE_PRIVATE);
+fos.write(string.getBytes());
+fos.close();
+```
+
+See also [Using Internal Storage](http://developer.android.com/guide/topics/data/data-storage.html#filesInternal) and [Save a File on Internal Storage](http://developer.android.com/training/basics/data-storage/files.html#WriteInternalStorage).
+
 > Exercise
 
 > Using the serialized `User` object, whenever a new `User` is added, add it as a line in the file. Use this file
@@ -75,6 +88,8 @@ In order to write to external storage, include the line:
 Note that, as with the File object, read permissions and write permissions are separate (as are execution permissions). This division of permissions is typical.
 
 ###### Reading and Writing
+
+
 
 > Exercise
 
