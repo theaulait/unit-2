@@ -52,3 +52,4 @@ Google form to collect more information on the teamwork component of this projec
 #### Submissions
 
 Team AHRM: Abass Bayo, Rosemary Fermin, Hoshiko Oki, Marbella Vidals - https://github.com/RosmaryFC/Meme-ify-Me-ARHM
+Team YANJ:Yuliya Kaleda, Anthony McBride, Na Li, Janneisy Vidals - https://github.com/Jvidals1/MeMeApp/tree/JannV
