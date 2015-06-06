@@ -17,6 +17,8 @@ Students will understand how to store data using shared preferences and internal
 
 ##### Shared Preferences
 
+Shared Preferences are a way to store persistent key-value pairs. You can have multiple Shared Preferences files, or just one, and store and retrieve data with methods such as `putBoolean` and `getString`. Example code can be found [here](http://developer.android.com/guide/topics/data/data-storage.html#pref).
+
 > Exercise
 
 > Add a `total_users` counter to your app. Every time a user gets added, increment this value and toast how many users you've seen. Store/retrieve `total_users` in shared preferences so that this number always increases across uses.
