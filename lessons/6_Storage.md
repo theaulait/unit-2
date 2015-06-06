@@ -51,6 +51,8 @@ All devices have internal storage (built-in storage). External storage is typica
 
 ##### Saving a file to internal storage
 
+To get the files directory, use [`getFilesDir()`](http://developer.android.com/reference/android/content/Context.html#getFilesDir()) which will tell you the path of where the files are stored.
+
 Create a `FileOutputStream` object, write to the stream, and then close it:
 
 ```
@@ -89,7 +91,11 @@ Note that, as with the File object, read permissions and write permissions are s
 
 ###### Reading and Writing
 
+Check [`Environment.getExternalStorageState()`](http://developer.android.com/reference/android/os/Environment.html#getExternalStorageState()). The state may read and write, read only, or not avaialble.
 
+Get the public files directory using [`getExternalStoragePublicDirectory()`](http://developer.android.com/reference/android/os/Environment.html#getExternalStoragePublicDirectory(java.lang.String)) or [`getExternalFilesDir()`](http://developer.android.com/reference/android/content/Context.html#getExternalFilesDir(java.lang.String)) for private files.
+
+Write to the file stream and close.
 
 > Exercise
 
@@ -109,3 +115,4 @@ Delete a `File` with the [`delete()`](http://developer.android.com/reference/jav
 
 #### Assessment
 
+[Exit Ticket](https://docs.google.com/forms/d/1a-gfjjsn35N-C6wrQU9y02vHoYLFaEfjUgD7J91n3rM/viewform?usp=send_form)
