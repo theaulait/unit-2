@@ -1,4 +1,4 @@
-### Kitchen Sink
+### Kitchen Sync
 
 #### Git and Github (John)
 
