@@ -31,7 +31,7 @@ rewriting as little as possible.
 
 #### Submission
 
-Submit this as a pull request to the repository you forked, and submit a link to the pull request below.
+Submit this as a pull request to the repository you forked, and submit a link to the pull request below. This assignment is due at 2200 on Friday June 12th.
 
 #### Submissions
 
