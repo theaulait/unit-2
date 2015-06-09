@@ -32,11 +32,16 @@ that gets called when the task is cancelled. If this is called, then `onPostExec
 
 ##### REST
 
-REST mean "internety." It's stateless. Like the internet.
+REST stands for "Representational State Transfer." REST APIs are defined by their statelessness - the requests do
+not have memory. The main requests are the HTTP requests PUT, GET, POST and DELETE. We'll be working with GET
+requests, which specify their parameters in the URL.
 
 ##### Using a web API
 
-Reach into yourself and remember using JSON.
+API Keys - This is a parameter you pass that identifies you. It is used to log what requests you make and limit access.
+
+Pagination - This is a feature that means you'll only get a certain number of requests at a time - for example, only
+the lastest 10 updates at a time.
 
 #### Exercise
 
