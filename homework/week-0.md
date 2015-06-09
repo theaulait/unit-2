@@ -55,7 +55,7 @@ John Gomez, Joshelyn Vivas, Ramona Harrison, Luke Lee - https://github.com/ramon
 
 Team AHRM: Abass Bayo, Rosemary Fermin, Hoshiko Oki, Marbella Vidals - https://github.com/RosmaryFC/Meme-ify-Me-ARHM
 
-Team YANJ:Yuliya Kaleda, Anthony McBride, Na Li, Janneisy Vidals - https://github.com/Jvidals1/MeMeApp/tree/JannV
+Team YANJ:Yuliya Kaleda, Anthony McBride, Na Li, Janneisy Vidals - https://github.com/Yuliya-Kaleda/meme
 
 Team Maddy and The Cool Kids: Ray Acevedo, Jose Garcia, Kadeem Maraugh, Madelyn Tavarez - https://github.com/MadelynTav/MemeProject
 
@@ -65,3 +65,5 @@ Team SCAR - Sufei, Charlyn, Alvin, Reinard
 https://github.com/sufeiiz/Memeify
 
 Team Meme5: Tasha Smith, Pooja Pasawala, Anthony Fermin, Jorge Reina - https://github.com/tashsmit/Meme5
+
+Team VEGH: Vanice, Elvis, George, Hans - https://github.com/personabe1984/Snap-Meme

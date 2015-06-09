@@ -17,6 +17,8 @@ Students will understand how to store data using shared preferences and internal
 
 ##### Shared Preferences
 
+Shared Preferences are a way to store persistent key-value pairs. You can have multiple Shared Preferences files, or just one, and store and retrieve data with methods such as `putBoolean` and `getString`. Example code can be found [here](http://developer.android.com/guide/topics/data/data-storage.html#pref).
+
 > Exercise
 
 > Add a `total_users` counter to your app. Every time a user gets added, increment this value and toast how many users you've seen. Store/retrieve `total_users` in shared preferences so that this number always increases across uses.
@@ -27,9 +29,11 @@ Students will understand how to store data using shared preferences and internal
 
 ##### Serializing Data
 
+An Object is serialized when it is turned into a stream of bytes so it can be written to a file, and deserialized when it is turned back into an Object using the stream of bytes. An Object that does these can implement the [Serializable](http://developer.android.com/reference/java/io/Serializable.html) interface. In order to be serializable and deserializable, you can create/use [ObjectOutputStream](http://developer.android.com/reference/java/io/ObjectOutputStream.html) and [ObjectInputStream](http://developer.android.com/reference/java/io/ObjectInputStream.html).
+
 > Exercise
 
-> 
+> Make the `User` object `Serializable`.
 
 #### Do Now (Afternoon)
 
@@ -39,11 +43,28 @@ Students will understand how to store data using shared preferences and internal
 
 ##### Querying Free Space
 
-##### Internal vs External Storage
+One of the tricky things about writing code for mobile devices is the limited amount of free space (and resources in general, including local resources all well as non-gaurantees of internet connectivity and bandwidth). When you run out of space, you will get an IOException. If you know (or can ballpark) the amount of space you'll need beforehand, you can use [`getFreeSpace()`](http://developer.android.com/reference/java/io/File.html#getFreeSpace()) and [`getTotalSpace()`](http://developer.android.com/reference/java/io/File.html#getTotalSpace()) on the `File` object to know if you'll have enough space.
 
+##### [Internal vs External Storage](http://developer.android.com/training/basics/data-storage/files.html#InternalVsExternalStorage)
 
+All devices have internal storage (built-in storage). External storage is typically a device such as an SD card, although sometimes the external storage is nonremovable. Internal storage is always available (unlike external storage). When a user deletes your app, the associated internal storage is deleted by default, but the associated external storage is not deleted by default. Interal storage is typically only meant to be read by the app, wheras external storage is world-readable. Internal storage is more suited to something like a database; external storage might be for memes that a user has created.
 
 ##### Saving a file to internal storage
+
+To get the files directory, use [`getFilesDir()`](http://developer.android.com/reference/android/content/Context.html#getFilesDir()) which will tell you the path of where the files are stored.
+
+Create a `FileOutputStream` object, write to the stream, and then close it:
+
+```
+String FILENAME = "hello_file";
+String string = "hello world!";
+
+FileOutputStream fos = openFileOutput(FILENAME, Context.MODE_PRIVATE);
+fos.write(string.getBytes());
+fos.close();
+```
+
+See also [Using Internal Storage](http://developer.android.com/guide/topics/data/data-storage.html#filesInternal) and [Save a File on Internal Storage](http://developer.android.com/training/basics/data-storage/files.html#WriteInternalStorage).
 
 > Exercise
 
@@ -70,11 +91,21 @@ Note that, as with the File object, read permissions and write permissions are s
 
 ###### Reading and Writing
 
+Check [`Environment.getExternalStorageState()`](http://developer.android.com/reference/android/os/Environment.html#getExternalStorageState()). The state may read and write, read only, or not avaialble.
+
+Get the public files directory using [`getExternalStoragePublicDirectory()`](http://developer.android.com/reference/android/os/Environment.html#getExternalStoragePublicDirectory(java.lang.String)) or [`getExternalFilesDir()`](http://developer.android.com/reference/android/content/Context.html#getExternalFilesDir(java.lang.String)) for private files.
+
+Write to the file stream and close.
+
+See also [Using External Storage](http://developer.android.com/guide/topics/data/data-storage.html#filesExternal) and [Save a File on External Storage](http://developer.android.com/training/basics/data-storage/files.html#WriteExternalStorage).
+
 > Exercise
 
 > Do the same thing, saving the serialized `User` object and populating the spinner, but instead saving to and reading from external storage.
 
 ##### Deleting a File
+
+Delete a `File` with the [`delete()`](http://developer.android.com/reference/java/io/File.html#delete()) method, or by calling [`deleteFile()`](http://developer.android.com/reference/android/content/Context.html#deleteFile(java.lang.String)) on the `Context`.
 
 > Exercise
 
@@ -86,4 +117,4 @@ Note that, as with the File object, read permissions and write permissions are s
 
 #### Assessment
 
-#### Resources
+[Exit Ticket](https://docs.google.com/forms/d/1a-gfjjsn35N-C6wrQU9y02vHoYLFaEfjUgD7J91n3rM/viewform?usp=send_form)
