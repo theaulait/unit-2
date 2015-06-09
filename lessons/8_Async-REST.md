@@ -16,10 +16,10 @@ The UI thread is the thread that controls the interface - it makes updates to wh
 are other threads that are running concurrently, that is, the device switches between doing many things at once, and
 programs aren't necessarily linear.
 
-Async Task allows you to perform background operations - operations that should not be on the UI thread - and publish
+[AsyncTask](http://developer.android.com/reference/android/os/AsyncTask.html) allows you to perform background operations - operations that should not be on the UI thread - and publish
 these operations to the UI thread when they are done.
 
-A few APIs you need to know for Async Task:
+A few APIs you need to know for AsyncTask:
 
 [`doInBackground`](http://developer.android.com/reference/android/os/AsyncTask.html#doInBackground(Params...)) -
 The main method you override to execute a task in the background.
