@@ -56,3 +56,5 @@ Update the images periodically - e.g. once every 5 seconds. The number of second
 Include stop and start buttons.
 
 #### Assessment
+
+[Exit Ticket](https://docs.google.com/forms/d/1a-gfjjsn35N-C6wrQU9y02vHoYLFaEfjUgD7J91n3rM/viewform?usp=send_form)
