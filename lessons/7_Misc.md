@@ -1,7 +1,5 @@
 ### Kitchen Sync
 
-#### Git and Github (John)
-
 #### View Hierarchy
 
 Work on the view hierarchy exercises from Thursday.
