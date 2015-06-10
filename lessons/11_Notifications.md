@@ -12,4 +12,6 @@
 
 #### Updating and Removing
 
+#### Expanded Notifications
+
 #### User Experience
