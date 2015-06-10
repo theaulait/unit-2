@@ -11,6 +11,15 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
 
+import java.io.BufferedInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.StringWriter;
+import java.io.UnsupportedEncodingException;
+import java.net.HttpURLConnection;
+import java.net.URL;
+
 
 public class MainActivity extends Activity {
 
@@ -37,11 +46,11 @@ public class MainActivity extends Activity {
         protected String doInBackground(Void... voids) {
             String time_url = "http://www.timeapi.org/utc/now";
             try {
-                DefaultHttpClient httpClient = new DefaultHttpClient();
-                HttpGet httpGet = new HttpGet(time_url);
-                HttpResponse httpResponse = httpClient.execute(httpGet);
-                HttpEntity httpEntity = httpResponse.getEntity();
-                String output = EntityUtils.toString(httpEntity);
+                URL url = new URL(time_url);
+                HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+                connection.setRequestMethod("GET");
+                connection.connect();
+                String output = readStream(connection.getInputStream());
                 output = output.replace('T', '\n');
                 return output;
             }
@@ -54,5 +63,18 @@ public class MainActivity extends Activity {
         protected void onPostExecute(String s) {
             timeText.setText(s);
         }
+
+        private String readStream(InputStream in) throws IOException {
+            char[] buffer = new char[1024 * 4];
+            InputStreamReader reader = new InputStreamReader(in, "UTF8");
+            StringWriter writer = new StringWriter();
+            int n;
+            while ((n = reader.read(buffer)) != -1) {
+                writer.write(buffer, 0, n);
+            }
+            return writer.toString();
+        }
     }
+
+
 }
