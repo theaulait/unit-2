@@ -12,7 +12,7 @@
 5 | June 4 | 1 | [View Hierarchy](lessons/5_View-Hierarchy.md)
 6 | June 6 | 1 | [Storage](lessons/6_Storage.md)
 7 | June 7 | 2 | [Misc](lessons/7_Misc.md)
-8 | June 9 | 2 | Async Task and REST
+8 | June 9 | 2 | [Async Task and REST](lessons/8_Async-REST.md)
 9 | June 11 | 2 | Exercises |
 10 | June 13 | 2 | Threads |
 11 | June 14 | 3 | Notifications |
