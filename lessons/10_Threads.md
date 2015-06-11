@@ -17,33 +17,19 @@ Students will become comfortable with:
 
 #### Threads
 
-##### Blocking
-
-##### Deadlock
-
-##### Race Conditions
-
 #### The UI Thread
 
-#### Using Multiple Threads
-
-##### Background Threads
-
-##### Runnables
-
-##### Handlers
-
-#### Observable
+#### Background Threads
 
 #### Concurrency Models
 
+##### Runnables
+
 ##### AsyncTask
 
-##### Callbacks
+##### IntentService
 
-##### CountdownTimer
-
-#### RxJava
+##### Handlers
 
 #### Exercise
 
