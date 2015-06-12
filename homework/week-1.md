@@ -35,3 +35,5 @@ Submit this as a pull request to the repository you forked, and submit a link to
 
 #### Submissions
 
+Anthony's pull request: https://github.com/personabe1984/Snap-Meme/pull/5
+
