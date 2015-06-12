@@ -11,6 +11,12 @@ Students will become comfortable with:
 
 ### Do Now (Morning)
 
+Create a number-guessing Android app. The app should prompt a user to guess a number between 1 and 10, and when
+the user hits the "submit" button, it tells the user if it guessed correctly.
+
+Add a feature so that it gives the user 5 seconds to guess a number. User the `sleep` method in order to pause
+execution for 5 seconds.
+
 ### Lesson (Morning)
 
 [Slides here](https://docs.google.com/presentation/d/1CTUlfE41tgwUspWus_p8MfjmBU9ahmtcG8F5Ko9cD00/edit?usp=sharing)
