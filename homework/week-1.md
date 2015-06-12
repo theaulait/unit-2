@@ -39,3 +39,4 @@ Jose Garcia - https://github.com/ramonaharrison/meme-ify-me/pull/13
 Sarah Kim - https://github.com/Yuliya-Kaleda/meme/pull/1
 Anthony McBride: https://github.com/personabe1984/Snap-Meme/pull/5
 Elvis Boves - https://github.com/tashsmit/Meme5/pull/17
+Marbella Vidals - https://github.com/personabe1984/Snap-Meme/pull/4
