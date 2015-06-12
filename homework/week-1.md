@@ -40,3 +40,4 @@ Sarah Kim - https://github.com/Yuliya-Kaleda/meme/pull/1
 Anthony McBride: https://github.com/personabe1984/Snap-Meme/pull/5
 Elvis Boves - https://github.com/tashsmit/Meme5/pull/17
 Marbella Vidals - https://github.com/personabe1984/Snap-Meme/pull/4
+Anthony Fermin - [Meme-ify Pull Request](https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/32)
