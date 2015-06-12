@@ -46,6 +46,8 @@ Modify the implementation so that a background thread is used to sleep instead o
 
 ### Do Now (Afternoon)
 
+
+
 ### Lesson (Afternoon)
 
 #### Concurrency Models
@@ -57,6 +59,13 @@ Modify the implementation so that a background thread is used to sleep instead o
 ##### IntentService
 
 ##### Handlers
+
+### Exercises (Afternoon)
+
+1. Implement the 5-second guess limit using a Service.
+2. Implement the 5-second guess limit using an AsyncTask.
+3. Implement the 5-second guess limit using a CountDownTimer.
+4. Using the CountDownTimer, update the UI so that it displays how many seconds remain to guess a number.
 
 ### Assessment
 
