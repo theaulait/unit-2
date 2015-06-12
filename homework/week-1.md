@@ -35,3 +35,6 @@ Submit this as a pull request to the repository you forked, and submit a link to
 
 #### Submissions
 
+Vanice Yee
+https://github.com/theaulait/Meme-ify-Me-ARHM
+
