@@ -64,9 +64,13 @@ Modify the implementation so that a background thread is used to sleep instead o
 
 ### Exercises (Afternoon)
 
+1. Implement the 5-second guess limit using a Handler and a Runnable.
+1. Implement the 5-second guess limit using a Service.
 1. Implement the 5-second guess limit using an AsyncTask.
 1. Implement the 5-second guess limit using a CountDownTimer.
 1. Using the CountDownTimer, update the UI so that it displays how many seconds remain to guess a number.
+
+*TODO: Needs one more exercise
 
 ### Assessment
 
