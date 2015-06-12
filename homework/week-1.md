@@ -35,3 +35,5 @@ Submit this as a pull request to the repository you forked, and submit a link to
 
 #### Submissions
 
+Anthony Fermin - [Meme-ify Pull Request](https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/32)
+
