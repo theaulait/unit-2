@@ -1,15 +1,17 @@
-### Multithreading in Android
+## Multithreading in Android
 
-#### Objective
+### Objective
 
 Students will become comfortable with:
 
 * what processes and threads are in general
 * how processes and threads work on Android
 * the role of the main (aka UI) thread and what to do and NOT do 
-* the different ways to work with threading on Adnroid
+* the different ways to work with threading on Android
 
-#### Lesson
+### Do Now (Morning)
+
+### Lesson (Morning)
 
 [Slides here](https://docs.google.com/presentation/d/1CTUlfE41tgwUspWus_p8MfjmBU9ahmtcG8F5Ko9cD00/edit?usp=sharing)
 
@@ -21,6 +23,12 @@ Students will become comfortable with:
 
 #### Background Threads
 
+### Pod Meetings
+
+### Do Now (Afternoon)
+
+### Lesson (Afternoon)
+
 #### Concurrency Models
 
 ##### Runnables
@@ -31,11 +39,7 @@ Students will become comfortable with:
 
 ##### Handlers
 
-#### Exercise
-
-TBD
-
-#### Assessment
+### Assessment
 
 [Exit Ticket]()
 
