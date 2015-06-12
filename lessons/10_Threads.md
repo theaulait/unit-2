@@ -22,11 +22,11 @@ execution for 5 seconds.
 
 #### Processes
 
-A process may have several threads.
+A process is a running program; all the threads in a process have access to shared memory, and each process running has its own memory. The CPU of a machine handles running several processes at once.
 
 #### Threads
 
-An Android process is made up of several different threads. The programmer may control or change different t
+A thread represents one path of execution in a process. Threads can run concurrently, which makes them tricky to reason about.
 
 #### The UI Thread
 
@@ -59,6 +59,8 @@ Modify the implementation so that a background thread is used to sleep instead o
 ##### IntentService
 
 ##### Handlers
+
+
 
 ### Exercises (Afternoon)
 
