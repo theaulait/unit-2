@@ -13,7 +13,7 @@
 6 | June 6 | 1 | [Storage](lessons/06_Storage.md)
 7 | June 7 | 2 | [Misc](lessons/07_Misc.md)
 8 | June 9 | 2 | [Async Task and REST](lessons/08_Async-REST.md)
-9 | June 11 | 2 | Exercises |
+9 | June 11 | 2 | [Exercises](exercises/09_Exercises.md) |
 10 | June 13 | 2 | [Threads](lessons/10_Threads.md) |
 11 | June 14 | 3 | Notifications |
 
