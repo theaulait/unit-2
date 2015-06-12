@@ -35,7 +35,9 @@ UI thread were to be used to access the internet or download a file, for example
 
 #### Background Threads
 
-### Exercise (Afternoon)
+Background threads are threads that are no visible to the user - i.e. do not make changes to the UI. While information from a background thread may be used to update the UI, the UI is updated by the UI thread. Anything that could block the UI thread, such as a database access, should go on a background thread.
+
+### Exercise (Morning)
 
 Add a "reset" button to the app from the Do Now. When the reset button is pressed, a new random number should be
 generated and the countdown should start again. Notice how in the current implementation, the reset button cannot be pressed while the UI thread is blocked. *Never block the UI thread.*
@@ -59,8 +61,6 @@ Modify the implementation so that a background thread is used to sleep instead o
 ##### IntentService
 
 ##### Handlers
-
-
 
 ### Exercises (Afternoon)
 
