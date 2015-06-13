@@ -82,6 +82,10 @@ Some methods from AsyncTask run on the UI thread, while some run in a background
 
 **TODO: Needs one more exercise**
 
+#### Homework
+
+**TODO: Make hw doc and link to**
+
 ### Assessment
 
 [Exit Ticket]()
