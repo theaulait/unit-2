@@ -53,6 +53,8 @@ Madelyn Tavarez - https://github.com/tashsmit/Meme5/pull/16
 
 Elvis Boves - https://github.com/tashsmit/Meme5/pull/17
 
+Sufei Zhao - https://github.com/tashsmit/Meme5/pull/18
+
 Anthony Fermin - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/32
 
 Joshelyn Vivas- https://github.com/MadelynTav/MemeProject/pull/24
