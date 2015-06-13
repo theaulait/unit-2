@@ -15,7 +15,7 @@
 8 | June 9 | 2 | [Async Task and REST](lessons/08_Async-REST.md)
 9 | June 11 | 2 | [Exercises](exercises/09_Exercises.md) |
 10 | June 13 | 2 | [Threads](lessons/10_Threads.md) |
-11 | June 14 | 3 | Notifications |
+11 | June 14 | 3 | [Notifications](lessons/11_Notifications.md) |
 
 ### Homework
 
