@@ -51,7 +51,7 @@ Google form to collect more information on the teamwork component of this projec
 
 #### Submissions
 
-John Gomez, Joshelyn Vivas, Ramona Harrison, Luke Lee - https://github.com/ramonaharrison/meme-ify-me
+Team MemeFy: John Gomez, Joshelyn Vivas, Ramona Harrison, Luke Lee - https://github.com/ramonaharrison/meme-ify-me
 
 Team AHRM: Abass Bayo, Rosemary Fermin, Hoshiko Oki, Marbella Vidals - https://github.com/RosmaryFC/Meme-ify-Me-ARHM
 
