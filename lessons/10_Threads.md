@@ -73,7 +73,6 @@ Some methods from AsyncTask run on the UI thread, while some run in a background
 ### Exercises (Afternoon)
 
 1. Implement the 5-second guess limit using a Handler and a Runnable.
-1. Implement the 5-second guess limit using a Handler and a Message.
 1. Implement the 5-second guess limit using a Service.
 1. Implement the 5-second guess limit using an AsyncTask.
 1. Implement the 5-second guess limit using a CountDownTimer.
