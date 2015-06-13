@@ -23,3 +23,4 @@
 |--- |---|
 | June 5 | [Meme-ify Me](homework/week-0.md) |
 | June 12 | [Meme-ify Me II](homework/week-1.md) |
+| June 19 | [Open Source](homework/week-2.md) |
