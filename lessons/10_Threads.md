@@ -48,7 +48,7 @@ Modify the implementation so that a background thread is used to sleep instead o
 
 ### Do Now (Afternoon)
 
-
+**TODO**
 
 ### Lesson (Afternoon)
 
@@ -60,7 +60,7 @@ A Runnable is an object that is used to pass around code to be executed. The cod
 
 ##### Handlers
 
-Handlers have two main features: posting and sending. Posting a message 
+Handlers have two main features: posting and sending. 
 
 ##### AsyncTask
 
@@ -70,6 +70,8 @@ Some methods from AsyncTask run on the UI thread, while some run in a background
 
 ##### IntentService
 
+**TODO**
+
 ### Exercises (Afternoon)
 
 1. Implement the 5-second guess limit using a Handler and a Runnable.
@@ -78,7 +80,7 @@ Some methods from AsyncTask run on the UI thread, while some run in a background
 1. Implement the 5-second guess limit using a CountDownTimer.
 1. Using the CountDownTimer, update the UI so that it displays how many seconds remain to guess a number.
 
-*TODO: Needs one more exercise
+**TODO: Needs one more exercise**
 
 ### Assessment
 
