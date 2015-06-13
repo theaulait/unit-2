@@ -13,15 +13,15 @@ notifications.
 
 #### Notification Builder
 
-#### Actions
-
-##### PendingIntent
-
 ### Exercises (Morning)
 
 ### Do Now (Afternoon)
 
 ### Lesson (Afternoon)
+
+#### Actions
+
+##### PendingIntent
 
 #### Lock Screen
 
