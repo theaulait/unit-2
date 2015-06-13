@@ -70,3 +70,5 @@ Joshelyn Vivas- https://github.com/MadelynTav/MemeProject/pull/24
 Pooja Pasawala - https://github.com/sufeiiz/Memeify/pull/7
 
 Ray Acevedo - https://github.com/sufeiiz/Memeify/pull/8
+
+Hoshiko Oki - https://github.com/sufeiiz/Memeify/pull/6
