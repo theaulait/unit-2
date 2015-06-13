@@ -63,6 +63,8 @@ Anthony Fermin - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/32
 
 Allison Bojarski - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/34
 
+Alvin Kuang - https://github.com/MadelynTav/MemeProject/pull/22
+
 Joshelyn Vivas- https://github.com/MadelynTav/MemeProject/pull/24
 
 Pooja Pasawala - https://github.com/sufeiiz/Memeify/pull/7
