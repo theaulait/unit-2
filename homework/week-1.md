@@ -54,3 +54,5 @@ Elvis Boves - https://github.com/tashsmit/Meme5/pull/17
 Anthony Fermin - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/32
 
 Joshelyn Vivas- https://github.com/MadelynTav/MemeProject/pull/24
+
+Alvin Kuang - https://github.com/MadelynTav/MemeProject/pull/22
