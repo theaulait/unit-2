@@ -59,7 +59,8 @@ Rosmary Fermin - https://github.com/tashsmit/Meme5/pull/19
 
 Anthony Fermin - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/32
 
+Allison Bojarski - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/34
+
 Joshelyn Vivas- https://github.com/MadelynTav/MemeProject/pull/24
 
 Pooja Pasawala - https://github.com/sufeiiz/Memeify/pull/7
-
