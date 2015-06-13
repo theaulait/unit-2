@@ -2,6 +2,9 @@
 
 ### Objective
 
+Students will become familiar with the Android notification system and practice implementing their own complex
+notifications.
+
 ### Do Now (Morning)
 
 ### Lesson (Morning)
