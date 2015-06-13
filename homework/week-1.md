@@ -47,9 +47,11 @@ Marbella Vidals - https://github.com/personabe1984/Snap-Meme/pull/4
 
 Anthony McBride: https://github.com/personabe1984/Snap-Meme/pull/5
 
+Luke Lee  - https://github.com/personabe1984/Snap-Meme/pull/6
+
 Janneisy Vidals - https://github.com/personabe1984/Snap-Meme/pull/7
 
-Luke Lee  - https://github.com/personabe1984/Snap-Meme/pull/6
+Kadeem Maragh - https://github.com/personabe1984/Snap-Meme/pull/8
 
 Madelyn Tavarez - https://github.com/tashsmit/Meme5/pull/16
 
@@ -67,8 +69,8 @@ Alvin Kuang - https://github.com/MadelynTav/MemeProject/pull/22
 
 Joshelyn Vivas- https://github.com/MadelynTav/MemeProject/pull/24
 
+Hoshiko Oki - https://github.com/sufeiiz/Memeify/pull/6
+
 Pooja Pasawala - https://github.com/sufeiiz/Memeify/pull/7
 
 Ray Acevedo - https://github.com/sufeiiz/Memeify/pull/8
-
-Kadeem Maragh - https://github.com/personabe1984/Snap-Meme/pull/8
