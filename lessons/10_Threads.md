@@ -13,7 +13,7 @@ Students will become comfortable with:
 
 Create a number-guessing Android app. The app should generate a random integer between 1 and 10, then prompt the user to guess a number. When the user hits the "submit" button, it tells the user if the guess was correct.
 
-Add a feature so that it gives the user 5 seconds to guess a number. User the `sleep` method in order to pause
+Add a feature so that it gives the user 5 seconds to guess a number. Use the `sleep` method in order to pause
 execution for 5 seconds.
 
 ### Lesson (Morning)
@@ -34,7 +34,6 @@ The UI thread is the main thread, and it in charge of updating the UI. Other thr
 
 Background threads are threads other than the main thread.  They do not make changes to the UI.  While information from a background thread may be used to update the UI, the UI is updated by the UI thread. Anything that could block the UI thread, such as a database access, should go on a background thread.
 
-#### 
 ### Exercise (Morning)
 
 Add a "reset" button to the app from the Do Now. When the reset button is pressed, a new random number should be
@@ -43,10 +42,6 @@ generated and the countdown should start again. Notice how in the current implem
 Modify the implementation so that a background thread is used to sleep instead of the UI thread. When the reset button is pressed, interrupt the sleeping thread and restart the timer.
 
 ### Pod Meetings
-
-### Do Now (Afternoon)
-
-**TODO**
 
 ### Lesson (Afternoon)
 
@@ -83,8 +78,6 @@ There are two main uses for a Handler: (1) to schedule messages and runnables to
 1. Implement the 5-second guess limit using an AsyncTask.
 1. Implement the 5-second guess limit using a CountDownTimer.
 1. Using the CountDownTimer, update the UI so that it displays how many seconds remain to guess a number.
-
-**TODO: Needs one more exercise**
 
 #### Homework
 
