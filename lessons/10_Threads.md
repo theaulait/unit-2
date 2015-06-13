@@ -56,15 +56,24 @@ Modify the implementation so that a background thread is used to sleep instead o
 
 ##### Runnables
 
-##### AsyncTask
-
-##### IntentService
+A Runnable is an object that is used to pass around code to be executed. The code is contained in the `run` method. The code from a runnable can be executed on the current thread, or passed to another thread for execution.
 
 ##### Handlers
+
+Handlers have two main features: posting and sending. Posting a message 
+
+##### AsyncTask
+
+An AsyncTask is an object that defines a task to be executed in a background thread. The `doInBackground` method must be implemented, and the code runs in the background. The `onPostExecute` method runs on the UI thread, and can use the result of `doInBackground`, which it takes in as a parameter.
+
+Some methods from AsyncTask run on the UI thread, while some run in a background thread - e.g. `publishProgress` posts an update from the background thread, while `onProgressUpdate` runs on the UI thread using the information from `publishProgress`.
+
+##### IntentService
 
 ### Exercises (Afternoon)
 
 1. Implement the 5-second guess limit using a Handler and a Runnable.
+1. Implement the 5-second guess limit using a Handler and a Message.
 1. Implement the 5-second guess limit using a Service.
 1. Implement the 5-second guess limit using an AsyncTask.
 1. Implement the 5-second guess limit using a CountDownTimer.
