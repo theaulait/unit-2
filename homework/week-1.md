@@ -41,6 +41,8 @@ Sarah Kim - https://github.com/Yuliya-Kaleda/meme/pull/1
 
 George Syrimis - https://github.com/Yuliya-Kaleda/meme/pull/5
 
+Dison Ruan - https://github.com/Yuliya-Kaleda/meme/pull/6
+
 Marbella Vidals - https://github.com/personabe1984/Snap-Meme/pull/4
 
 Anthony McBride: https://github.com/personabe1984/Snap-Meme/pull/5
