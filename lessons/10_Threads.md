@@ -81,7 +81,7 @@ There are two main uses for a Handler: (1) to schedule messages and runnables to
 
 #### Homework
 
-**TODO: Make hw doc and link to**
+[Week 2 Homework](homework/week-2.md)
 
 ### Assessment
 
