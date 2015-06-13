@@ -11,11 +11,10 @@ The purpose of this assignment is to further deal with collaboration on bigger p
 ##### Part I
 
 * Open at least three issues against the repo that you worked with this past week. These can be anything from
-bug fixes to feature requests, but do not open issues that have already been opened.
+[bug fixes](https://github.com/forkhubs/android/issues/560) to [feature requests](https://github.com/forkhubs/android/issues/559), but do not open issues that have already been opened.
 * Open at least one issue against the repo that you worked with in Week 1. Make sure to look at the other issues
 that have been open. Do not duplicate issues.
-* With your team from week 1, review all pull requests and respond to all issues. Not everyone has to respond to
-everything - divide up the work amongst yourselves. You do not have to merge anything or implement anything new.
+* With your team from week 0, review all pull requests and respond to all issues on your group project repo. Responses could be about [project scope](https://github.com/forkhubs/android/issues/766), or simply discussion on how the [issue fits in with the app](https://github.com/forkhubs/android/issues/677). The point is to address the concern raised in the issue. Not everyone has to respond to everything - divide up the work amongst yourselves. You do not have to merge anything or implement anything new.
 
 ##### Part II
 
@@ -46,6 +45,6 @@ Here are a few others you can look at:
 #### Tips
 
 * Branch names should be descriptive.
-* Pull requests should be descriptive.
+* Pull requests should be [descriptive](https://github.com/forkhubs/android/pull/756).
 * Discussion is healthy!
 * Open source projects are communities as much as software.
