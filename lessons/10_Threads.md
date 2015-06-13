@@ -81,7 +81,7 @@ There are two main uses for a Handler: (1) to schedule messages and runnables to
 
 #### Homework
 
-[Week 2 Homework](homework/week-2.md)
+[Week 2 Homework](https://github.com/accesscode-2-1/unit-2/blob/master/homework/week-2.md)
 
 ### Assessment
 
